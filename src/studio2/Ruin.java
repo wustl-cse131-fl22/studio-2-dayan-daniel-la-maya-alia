@@ -70,7 +70,7 @@ public class Ruin {
 			
 	
 		
-		System.out.println("Ruin rate from simulation: " + ruinRate + "Expected ruin rate: "+ expectedRuin);
+		System.out.println("Ruin rate from simulation: " + ruinRate + " Expected ruin rate: "+ expectedRuin);
 		
 		
 	}
